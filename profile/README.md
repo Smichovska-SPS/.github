@@ -1,5 +1,4 @@
-## Hi there 👋
-
+# Pro skripta klikni [zde](https://smichovska-sps.github.io/notes)
 <!--
 
 **Here are some ideas to get you started:**
